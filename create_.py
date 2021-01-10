@@ -24,3 +24,6 @@ print(arr)
 
 arr = np.logspace(0, 1, 10)
 print(arr)
+
+arr = np.full((3, 4), 128)
+print(arr)
